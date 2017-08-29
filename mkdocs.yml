@@ -1,0 +1,10 @@
+site_name: APEX E2E TESTS 4
+pages:
+    - "Introduction": index.md
+    - "Page 1": page1.md
+theme: readthedocs
+theme_dir: theme
+markdown_extensions:
+    - admonition
+    - def_list
+    - grid_tables
